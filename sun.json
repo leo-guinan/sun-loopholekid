@@ -1,0 +1,382 @@
+{
+  "id": "sun-loopholekid",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@loopholekid Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_43fd10896d3d",
+    "display_name": "loopholekid",
+    "user_id": "@loopholekid",
+    "description": "Community Archive-derived proof-of-search sun for @loopholekid.",
+    "document_count": 33410,
+    "word_count": 426257,
+    "active_days": 3379,
+    "emissions": [
+      "Don",
+      "Good",
+      "Want",
+      "Shit",
+      "Need",
+      "Think"
+    ],
+    "generated_at": "2026-06-27T16:29:17.615939+00:00",
+    "color": "#f59e0b",
+    "mass": 12.963
+  },
+  "planets": [
+    {
+      "id": "planet_9aad7f1746e6",
+      "name": "Don",
+      "summary": "Archive cluster around don: 29782 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "fuck",
+        "love",
+        "time",
+        "going"
+      ],
+      "artifacts": [
+        {
+          "id": "art_384a15987b80",
+          "title": "Don receipt from 2024-04-11",
+          "excerpt": "why are you, as a man, not paying close attention to women's extremely well tuned intuition?",
+          "source_document_id": "1778452791142338698",
+          "timestamp": "2024-04-11T15:59:22+00:00",
+          "url": "https://x.com/loopholekid/status/1778452791142338698",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, fuck, love, time."
+        },
+        {
+          "id": "art_f97ccb0d7032",
+          "title": "Don receipt from 2022-01-29",
+          "excerpt": "psychedelics have frequently hit me with big insights like \"you should meditate more\" and \"go for long walks\"",
+          "source_document_id": "1487515403010117634",
+          "timestamp": "2022-01-29T19:58:03+00:00",
+          "url": "https://x.com/loopholekid/status/1487515403010117634",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, fuck, love, time."
+        },
+        {
+          "id": "art_9da57ca63e4a",
+          "title": "Don receipt from 2022-03-25",
+          "excerpt": "g*ogle's search quality has officially degraded beyond tolerable levels\n\nwhich search engine is best at returning results that are actually relevant? \n\n(Leaning towards duck duck go atm)",
+          "source_document_id": "1507418021228609540",
+          "timestamp": "2022-03-25T18:03:57+00:00",
+          "url": "https://x.com/loopholekid/status/1507418021228609540",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, fuck, love, time."
+        },
+        {
+          "id": "art_5531b7d4b6a6",
+          "title": "Don receipt from 2022-07-07",
+          "excerpt": "you can move your body through space in a way that gives you pretty high fidelity access to your neurology but it only works if you can let yourself move intuitively through patterns of motion that look like demonic possession",
+          "source_document_id": "1544882948498923520",
+          "timestamp": "2022-07-07T03:16:12+00:00",
+          "url": "https://x.com/loopholekid/status/1544882948498923520",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, fuck, love, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_10010e09a543",
+      "proof_score": 1,
+      "mass": 38.331,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_76a78713eb0f",
+      "name": "Good",
+      "summary": "Archive cluster around good: 868 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "feel",
+        "shit",
+        "really",
+        "actually"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b858be0f074d",
+          "title": "Good receipt from 2022-07-18",
+          "excerpt": "one of the deepest spiritual practices you can engage in is being a good host",
+          "source_document_id": "1549135707880529928",
+          "timestamp": "2022-07-18T20:55:08+00:00",
+          "url": "https://x.com/loopholekid/status/1549135707880529928",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, feel, shit, really."
+        },
+        {
+          "id": "art_8834cf225656",
+          "title": "Good receipt from 2023-06-29",
+          "excerpt": "incredibly irritating to be good at hard-to-measure-but-essential skills and not know how to effectively monetize them\n\nI'm creative, good at solving problems, and good at helping people \n\nuh, help?",
+          "source_document_id": "1674495847734624256",
+          "timestamp": "2023-06-29T19:11:35+00:00",
+          "url": "https://x.com/loopholekid/status/1674495847734624256",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, feel, shit, really."
+        },
+        {
+          "id": "art_730f1ea25a25",
+          "title": "Good receipt from 2024-04-04",
+          "excerpt": "BONUS: as the intersubjective field is energized, hunt for egregores! good luck taking down a big one though if it's larger than you can handle May God Have Mercy On Your Soul",
+          "source_document_id": "1776011948930281643",
+          "timestamp": "2024-04-04T22:20:19+00:00",
+          "url": "https://x.com/loopholekid/status/1776011948930281643",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, feel, shit, really."
+        },
+        {
+          "id": "art_774ac2851a59",
+          "title": "Good receipt from 2024-04-03",
+          "excerpt": "\"it's for you own good\" / \"it's what's best for the group\" / \"it's better this way\"\n\n🚩🚩🚩 🔔🔔🔔 🚩🚩🚩\n\nuh oh! it looks like someone may be encouraging you to surrender your autonomy- are you sure you want to defer your power here?",
+          "source_document_id": "1775551211904667682",
+          "timestamp": "2024-04-03T15:49:31+00:00",
+          "url": "https://x.com/loopholekid/status/1775551211904667682",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, feel, shit, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c533f97ef47f",
+      "proof_score": 1,
+      "mass": 28.992,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_55626a2ca606",
+      "name": "Want",
+      "summary": "Archive cluster around want: 728 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "see",
+        "really",
+        "something",
+        "fuck"
+      ],
+      "artifacts": [
+        {
+          "id": "art_1c2ca3832fa4",
+          "title": "Want receipt from 2024-04-04",
+          "excerpt": "want to cause a HOOT at your next party?\n\ntry playing THE STATUS GAME\n\nhave partygoers line up in order from highest status to lowest status \n\nfun for all ages!",
+          "source_document_id": "1776009832304181292",
+          "timestamp": "2024-04-04T22:11:55+00:00",
+          "url": "https://x.com/loopholekid/status/1776009832304181292",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, see, really, something."
+        },
+        {
+          "id": "art_a4bebdab8515",
+          "title": "Want receipt from 2024-04-17",
+          "excerpt": "want more of you to say crazy shit at the edge of comprehensibility",
+          "source_document_id": "1780606717455151226",
+          "timestamp": "2024-04-17T14:38:18+00:00",
+          "url": "https://x.com/loopholekid/status/1780606717455151226",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, see, really, something."
+        },
+        {
+          "id": "art_0318b7cc3a57",
+          "title": "Want receipt from 2024-01-27",
+          "excerpt": "simply signal at a level only detectable by those you want to identify you",
+          "source_document_id": "1751041534886306121",
+          "timestamp": "2024-01-27T00:36:49+00:00",
+          "url": "https://x.com/loopholekid/status/1751041534886306121",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, see, really, something."
+        },
+        {
+          "id": "art_6c31b6349d13",
+          "title": "Want receipt from 2024-04-02",
+          "excerpt": "@eshear @nosilverv I'd say manifestation is making the easiest next-step of the universal wavefunction the change you want, and bending expectations can be part of that",
+          "source_document_id": "1775161588464468456",
+          "timestamp": "2024-04-02T14:01:18+00:00",
+          "url": "https://x.com/loopholekid/status/1775161588464468456",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, see, really, something."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_93917f588a8e",
+      "proof_score": 1,
+      "mass": 28.936,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_f964b09e62f8",
+      "name": "Shit",
+      "summary": "Archive cluster around shit: 744 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "shit",
+        "holy",
+        "fuck",
+        "going",
+        "fucking"
+      ],
+      "artifacts": [
+        {
+          "id": "art_744e7d1158ba",
+          "title": "Shit receipt from 2023-06-13",
+          "excerpt": "if you're particularly perceptive, sensitive, etc, you need techniques to not take on everyone's shit all the time\n\nthere are literally wizard mind battles happening interpersonally and you can be owned by people with strong or well-deployed emotions",
+          "source_document_id": "1668451910649626624",
+          "timestamp": "2023-06-13T02:55:08+00:00",
+          "url": "https://x.com/loopholekid/status/1668451910649626624",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: shit, holy, fuck, going."
+        },
+        {
+          "id": "art_4ed91f10d219",
+          "title": "Shit receipt from 2022-07-18",
+          "excerpt": "your spirituality should probably directly make you a nicer person which will summon the kingdom of heaven / end suffering / etc \n\nit's not mundane to be kind and just and handle shit!!! it's the deepest realm of practice!!!!!!!",
+          "source_document_id": "1549136260622606336",
+          "timestamp": "2022-07-18T20:57:20+00:00",
+          "url": "https://x.com/loopholekid/status/1549136260622606336",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: shit, holy, fuck, going."
+        },
+        {
+          "id": "art_d14a9ec1124f",
+          "title": "Shit receipt from 2023-06-13",
+          "excerpt": "if you take any degree of woo, spooky mind shit, etc even kind of seriously PLEASE use the imaginal and your sixth sense / expanded proprioception (it's trainable!) to create some kind of defensive field \n\nit might not \"block psychic attacks\" but it DOES in ways that matter",
+          "source_document_id": "1668451071331631104",
+          "timestamp": "2023-06-13T02:51:48+00:00",
+          "url": "https://x.com/loopholekid/status/1668451071331631104",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: shit, holy, fuck, going."
+        },
+        {
+          "id": "art_c45ac6a274a3",
+          "title": "Shit receipt from 2023-07-11",
+          "excerpt": "okay I've been holding out on y'all\n\nI've been using this to work through my shit and it's helped a lot\n\nwas feeling embarrassed because it isn't perfect yet but fuck it, we launch https://t.co/P9LZ2ngHSL",
+          "source_document_id": "1678828729789825024",
+          "timestamp": "2023-07-11T18:08:54+00:00",
+          "url": "https://x.com/loopholekid/status/1678828729789825024",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: shit, holy, fuck, going."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9d313891b38d",
+      "proof_score": 1,
+      "mass": 28.202,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_81a31aafad98",
+      "name": "Need",
+      "summary": "Archive cluster around need: 654 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "need",
+        "things",
+        "going",
+        "work",
+        "feel"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0b3373ca433e",
+          "title": "Need receipt from 2019-05-20",
+          "excerpt": "@crimethot Late stage capitalism is feeling like we need to charge for things that we do naturally (like supporting people when they're Going Thru It), because if we aren't spending our time being Productive™ we'll literally die. With u on abolishing work and collapsing the economy.",
+          "source_document_id": "1130569013984149504",
+          "timestamp": "2019-05-20T20:20:32+00:00",
+          "url": "https://x.com/loopholekid/status/1130569013984149504",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: need, things, going, work."
+        },
+        {
+          "id": "art_dd4fea41381e",
+          "title": "Need receipt from 2024-05-03",
+          "excerpt": "need search terms for something like \"infinite self-replenishing toroidal vortex\" \n\nlike this https://t.co/T5RPpCneiz",
+          "source_document_id": "1786195622971773388",
+          "timestamp": "2024-05-03T00:46:37+00:00",
+          "url": "https://x.com/loopholekid/status/1786195622971773388",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: need, things, going, work."
+        },
+        {
+          "id": "art_ae833646862b",
+          "title": "Need receipt from 2023-04-04",
+          "excerpt": "okay I need your descriptions of the difference between LSD and psilocybin, IDEALLY QUITE POETIC",
+          "source_document_id": "1643113544831959041",
+          "timestamp": "2023-04-04T04:49:31+00:00",
+          "url": "https://x.com/loopholekid/status/1643113544831959041",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: need, things, going, work."
+        },
+        {
+          "id": "art_e42bb4917fb6",
+          "title": "Need receipt from 2022-07-07",
+          "excerpt": "I need to do a lot more thinking and testing but there's a way to channel the Dao fast and trade risk for healing in a way that's sane and involves a fair bit of preparation / harm reduction",
+          "source_document_id": "1544887161438507008",
+          "timestamp": "2022-07-07T03:32:56+00:00",
+          "url": "https://x.com/loopholekid/status/1544887161438507008",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: need, things, going, work."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_452d87b5d469",
+      "proof_score": 0.998,
+      "mass": 28.511,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_ed91658ad2db",
+      "name": "Think",
+      "summary": "Archive cluster around think: 634 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "might",
+        "things",
+        "way",
+        "something"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d70066cb2202",
+          "title": "Think receipt from 2018-04-21",
+          "excerpt": "My ultimate goal is nanobots that take the shape of what you think.",
+          "source_document_id": "987495135729602560",
+          "timestamp": "2018-04-21T00:56:01+00:00",
+          "url": "https://x.com/loopholekid/status/987495135729602560",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, might, things, way."
+        },
+        {
+          "id": "art_704d661a0330",
+          "title": "Think receipt from 2022-07-07",
+          "excerpt": "this is like, a high energy expenditure thing and can't be kept up for very long when you're really getting into it \n\nI think yoga/qi gong/etc are all basically slowed down versions of this that do the same thing over a longer time period",
+          "source_document_id": "1544885416586797057",
+          "timestamp": "2022-07-07T03:26:00+00:00",
+          "url": "https://x.com/loopholekid/status/1544885416586797057",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, might, things, way."
+        },
+        {
+          "id": "art_11d33eee5544",
+          "title": "Think receipt from 2024-03-21",
+          "excerpt": "@nosilverv abiding in awake awareness can be enough to trigger the immune reaction, which I think is experienced as despair, fear, abandonment, etc- usually under layers of defenses, up to and including violence, legal + otherwise, up to what's allowed by their pecking order position",
+          "source_document_id": "1770858454321689040",
+          "timestamp": "2024-03-21T17:02:11+00:00",
+          "url": "https://x.com/loopholekid/status/1770858454321689040",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, might, things, way."
+        },
+        {
+          "id": "art_8f913b2dd3b0",
+          "title": "Think receipt from 2022-07-07",
+          "excerpt": "I think we can probably accelerate healing (at least psychological trauma) quite a bit- maybe up to the speed of psychedelics (re: psychedelics can compress 10 years of therapy into 10h)\n\npaired with psychedelics, we might even be able to bump it up a bit",
+          "source_document_id": "1544886804729454594",
+          "timestamp": "2022-07-07T03:31:31+00:00",
+          "url": "https://x.com/loopholekid/status/1544886804729454594",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, might, things, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_538772106a8f",
+      "proof_score": 0.995,
+      "mass": 28.967,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
